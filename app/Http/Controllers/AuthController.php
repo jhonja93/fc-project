@@ -20,7 +20,7 @@ class AuthController extends Controller
         if ($v->fails())
         {
             return response()->json([
-                'error' => 'registration_validation_error',
+                'status' => 'error',
                 'errors' => $v->errors()
             ], 422);
         }
@@ -80,4 +80,3 @@ class AuthController extends Controller
         return Auth::guard();
     }
 }
-

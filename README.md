@@ -4,8 +4,8 @@ This repository is the result of a tutorial about creating a SPA (Single Page Ap
 
 This tutorial is available [here](https://medium.com/@ripoche.b/create-a-spa-with-role-based-authentication-with-laravel-and-vue-js-ac4b260b882f) (version française [ici](https://medium.com/@ripoche.b/cr%C3%A9er-une-spa-avec-authentification-par-r%C3%B4les-avec-laravel-et-vue-js-e69782ac6896)).
 
-## Update Laravel 6
-The project has been updated for Laravel 6. Just switch to the 'Laravel-6.1' branch.
+## Info
+This branch is an update for Laravel 6. For Laravel 5.8 check the branch "master".
 
 ## Prerequiries
 
