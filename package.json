@@ -11,12 +11,9 @@
     },
     "devDependencies": {
         "axios": "^0.19.0",
-        "bootstrap": "^4.0.0",
         "cross-env": "^5.1",
-        "jquery": "^3.2",
         "laravel-mix": "^4.0.7",
         "lodash": "^4.17.13",
-        "popper.js": "^1.12",
         "resolve-url-loader": "2.3.1",
         "sass": "^1.20.1",
         "sass-loader": "7.*",
@@ -25,7 +22,9 @@
     },
     "dependencies": {
         "@websanova/vue-auth": "^2.21.14-beta",
+        "element-ui": "^2.13.0",
         "es6-promise": "^4.2.8",
+        "tailwindcss": "^1.2.0",
         "vue-axios": "^2.1.5",
         "vue-router": "^3.1.3"
     }
